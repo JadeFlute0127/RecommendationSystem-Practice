@@ -11,6 +11,9 @@ util中存放一些工具类函数
 - ml-1M数据在data/ml-1m内
 - util中read为工具函数；dat2csv为原始数据处理函数
 - production中lfm为模型
+- 详解见博客：
+https://blog.csdn.net/qq_39685968/article/details/106750693
+https://blog.csdn.net/qq_39685968/article/details/106811260
 ***
 
 后续将陆续上传personal rank、item2vec、content-based、逻辑回归等基础模型，以及SVD、深度学习、知识图谱等学术界前沿论文的复现
